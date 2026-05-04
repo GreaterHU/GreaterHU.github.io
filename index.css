@@ -1,0 +1,31 @@
+body {
+    color:white;
+    background:green;
+    font-style:italic;
+    font-family:Arial;
+}
+
+.id{
+    font-size:60px;
+    font-weight:bold;
+
+}
+
+.szoveg{
+    font-size:18px;
+
+}
+#Greater{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width:200px;
+    height:auto;
+    margin-top: 20px;
+    margin-right:auto;
+}
+
+h3{
+    text-decoration: underline;
+}
+
