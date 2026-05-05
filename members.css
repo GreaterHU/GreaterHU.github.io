@@ -1,0 +1,26 @@
+#Greater{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width:200px;
+    height:auto;
+    margin-top: 20px;
+    margin-right:auto;
+}
+.szoveg{
+    font-size:18px;
+
+}
+body {
+    color:white;
+    background:green;
+    font-style:italic;
+    font-family:Arial;
+}
+h3 {
+    text-decoration: none;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
